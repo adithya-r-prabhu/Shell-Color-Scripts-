@@ -1,10 +1,14 @@
+forked from https://gitlab.com/dwt1/shell-color-scripts by Derek Taylor (distrotube) 
 # Shell Color Scripts
 
 ![Screenshot of shell-color-scripts](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles12.png)
 
 A collection of terminal color scripts I've accumulated over the years.
 Included 52 beautiful terminal color scripts.
+# Installing shell-color-scripts from AUR 
 
+	yay -S shell-color-scripts
+		
 # Installing shell-color-scripts on Arch Linux
 
 All you need to do is download the PKGBUILD from this repository.  Then run the following command:
