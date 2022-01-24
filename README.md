@@ -1,7 +1,7 @@
 forked from https://gitlab.com/dwt1/shell-color-scripts by Derek Taylor (distrotube) 
 # Shell Color Scripts
 
-![Screenshot of shell-color-scripts](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles12.png)
+![image](https://user-images.githubusercontent.com/83577193/150839563-39b8d74f-66cb-43c7-a2ec-47caebe8fd8d.png)
 
 A collection of terminal color scripts I've accumulated over the years.
 Included 52 beautiful terminal color scripts.
