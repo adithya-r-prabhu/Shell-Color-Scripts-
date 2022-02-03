@@ -60,3 +60,10 @@ For even more fun, add the following line to your .bashrc or .zshrc and you will
 
 	### RANDOM COLOR SCRIPT ###
 	colorscript random
+	
+	
+# Credits
+
+This is essentially a compilation of other people's work, so here are some credits:
+
+* [Derek Taylor](https://gitlab.com/dwt1/shell-color-scripts)
